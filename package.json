@@ -1,0 +1,20 @@
+{
+  "name": "firstproject",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "My first attempts to do something on my first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsogoeva/hexlet-js.git"
+  },
+  "author": "Tsogoeva Tatiana (tdagger@mail.ru)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tsogoeva/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Tsogoeva/hexlet-js#readme"
+}
